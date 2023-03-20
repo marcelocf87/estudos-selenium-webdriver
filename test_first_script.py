@@ -1,3 +1,9 @@
+"""
+@author Marcelo Custódio Freitas
+@version 1.0
+@since 20/03/2023
+"""
+
 import time
 
 from selenium import webdriver
