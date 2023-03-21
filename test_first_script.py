@@ -5,10 +5,11 @@
 """
 
 import time
-
 from selenium import webdriver
 
+# Abre o navegador
 browser = webdriver.Chrome()
 
+#Informa qual site irá acessar
 browser.get("https://google.com")
 time.sleep(5)
